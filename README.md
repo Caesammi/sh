@@ -4,6 +4,32 @@
 
 ## Build Setup
 
+request: axios请求拦截器与接口封装
+
+
+MAP: 高德地图
+
+
+HomeA: A项目目录 ={
+
+main 为父组件
+
+power为用户权限路由地图={
+
+每次进入main必然从此文件中调取路由数据，
+
+该文件可以写入多种用户角色以供权限管理
+
+}
+
+
+menu为导航菜单={
+集成了根据页面路径渲染的面包屑
+}
+
+}
+
+
 ``` bash
 # install dependencies
 npm install
