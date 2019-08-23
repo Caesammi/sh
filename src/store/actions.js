@@ -1,4 +1,4 @@
-import { setLocal } from '../static/tools';
+import { setLocal } from '../tools/storageTool';
 
 export const setRoles = function ({ commit }, roles) {
   commit('SET_ROLES', roles);
