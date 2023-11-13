@@ -16,7 +16,7 @@
   "dependencies": {
     "axios": "^1.6.0",
     "element-ui": "^2.11.1",
-    "qs": "^6.7.0",
+    "qs": "^6.7.3",
     "stylus": "^0.54.5",
     "stylus-loader": "^3.0.2",
     "swiper": "^4.5.0",
